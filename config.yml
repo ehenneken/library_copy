@@ -1,0 +1,11 @@
+# Mandatory fields
+#
+# api_token: [API token of the new library owner]
+# library_id: [ID of library to be copied over, which must be made public first]
+#
+# Optional fields
+# 
+# library_name: [Name to override current library name]
+# api_url: [Alternative API url]
+api_token: yourAPItoken
+library_id: libraryIdentifierString
